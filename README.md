@@ -8,6 +8,14 @@ The aim of the project is to practice responsive layout, UI design, and web page
 - Header, search bar, product grid, and footer design
 - Login & account section UI
 - Product card hover effects
+- ## 🌐 Live Demo
+https://Aakanksha-sengar.github.io/amazon-frontend-clone/
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+
 
 ## 🛠️ Tech Stack
 - HTML
